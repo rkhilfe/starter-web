@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rabah Khilfeh	rkhilfeh@gmail.com	@rkhilfeh
 
 # THANKS
 
